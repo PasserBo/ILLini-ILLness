@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ILLini-ILLness/static/css/main.0361a617.css",
+    "main.js": "/ILLini-ILLness/static/js/main.35225da0.js",
+    "static/js/787.cda612ba.chunk.js": "/ILLini-ILLness/static/js/787.cda612ba.chunk.js",
+    "index.html": "/ILLini-ILLness/index.html",
+    "main.0361a617.css.map": "/ILLini-ILLness/static/css/main.0361a617.css.map",
+    "main.35225da0.js.map": "/ILLini-ILLness/static/js/main.35225da0.js.map",
+    "787.cda612ba.chunk.js.map": "/ILLini-ILLness/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0361a617.css",
+    "static/js/main.35225da0.js"
+  ]
+}
