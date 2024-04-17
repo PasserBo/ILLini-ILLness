@@ -9,7 +9,7 @@ const Err404 = () => {
 	return <Main>
         <Heading as="h2" size="3xl">404</Heading>
         <Button
-            onClick={() => nav(-1)}
+            onClick={() => nav("/login")}
             leftIcon={<ArrowBackIcon />}
             variant="ghost"
             size="md"
